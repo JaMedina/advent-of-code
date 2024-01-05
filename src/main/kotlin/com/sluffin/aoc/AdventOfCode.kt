@@ -11,5 +11,6 @@ fun main() {
 //    Day.execute(Day05)
 //    Day.execute(Day06)
 //    Day.execute(Day07)
-    Day.execute(Day08)
+//    Day.execute(Day08)
+    Day.execute(Day09)
 }
